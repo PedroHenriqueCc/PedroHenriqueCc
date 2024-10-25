@@ -1,7 +1,7 @@
 <h1 align="center">╭─────────────────────────────────╮
 </h1>
 <h1 align="center">Oi, eu sou Pedro Henrique</h1>
-<h3 align="center">💻Analista e Cientista de Dados</h3>
+<h3 align="center">💻Análise e Desenvolvimento de Sistemas</h3>
 
 - 📫 Email: **phcc001@hotmail.com**
 ___________________________________
